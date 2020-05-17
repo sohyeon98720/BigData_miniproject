@@ -8,5 +8,5 @@ __주제__: 넷플릭스와 왓챠플레이의 검색량 비교와 각 사이트
 
 --------------
 __데이터 수집 방법__: 
-1. [네이버 개발자센터](https://developers.naver.com/docs/search/blog/)에 들어가서 오픈 API 이용 신청을 한다.(python용)
-2. 
+1. [네이버 개발자센터](https://developers.naver.com/docs/search/blog/)에 들어가서 오픈 API 이용 신청
+2. 발급받은 client-id와 client-secret을 API 호출 예제(python용)에 적용하여 블로그요약데이터를 받아옴
