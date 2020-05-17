@@ -19,5 +19,5 @@ __데이터 분석 방법__:
 1. 블로그 요약 데이터 중 본문 제목(title열)을 가져옴
 2. 본문 제목에 '추천'이라는 키워드가 있는 블로그의 링크만 저장
 3. 저장된 링크의 본문 전체 내용 수집
-    - https://www.youtube.com/watch?v=cB8bRCTgqJ8 (23:39~)
+    - [참고영상](https://www.youtube.com/watch?v=cB8bRCTgqJ8) (23:39~)
 4. 
