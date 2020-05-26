@@ -37,3 +37,11 @@ __결과물__:<br>
 ### 넷플릭스와 왓챠의 검색량 비교
 __결과물__:<br>
 <img src="https://user-images.githubusercontent.com/47767202/82850016-a182ac00-9f35-11ea-98a1-8e84aa1f24ff.png" width="90%">
+
+-----------------
+### 결론
+<img src="https://user-images.githubusercontent.com/47767202/82850393-333ee900-9f37-11ea-82ec-8a5773527327.png" width="50%">
+<img src="https://user-images.githubusercontent.com/47767202/82850470-7bf6a200-9f37-11ea-9d48-deadee913bef.png" width="50%">
+
+- 넷플릭스의 검색량이 왓챠에 비해 월등히 높았고 실제로 서비스 사용자수 차이도 그와 비슷하게 일치
+- 
