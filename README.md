@@ -40,8 +40,8 @@ __결과물__:<br>
 
 -----------------
 ### 결론
-<img src="https://user-images.githubusercontent.com/47767202/82850393-333ee900-9f37-11ea-82ec-8a5773527327.png" width="50%">
-<img src="https://user-images.githubusercontent.com/47767202/82850470-7bf6a200-9f37-11ea-9d48-deadee913bef.png" width="50%">
+<img src="https://user-images.githubusercontent.com/47767202/82850393-333ee900-9f37-11ea-82ec-8a5773527327.png" width="40%">
+<img src="https://user-images.githubusercontent.com/47767202/82850470-7bf6a200-9f37-11ea-9d48-deadee913bef.png" width="40%">
 
 - 넷플릭스의 **검색량**이 왓챠에 비해 월등히 높았고 실제로 **서비스 사용자수 차이**도 그와 비슷하게 **일치**
 - 최근 웨이브가 급속도로 성장함에따라 넷플릭스도 사용자수에 있어서 밀리고 있다. 또한 CJ E&M과 JTBC도 합작 OTT를 설립하기로 한 가운데 OTT 서비스를 거점 삼아 외주 유통을 더 이상 제공하지 않게되면 **100% 외주로 컨텐츠를 유통**하는 **왓챠는 고객을 잃을 것**이라는 전망이 나오고 있다. 하지만 **왓챠**는 넷플릭스에 비해 **월정액 요금이 저렴**하고 **bbc**와 **hbo**의 판권을 따오며 넷플릭스에서 제공하지 않는 킬링이브, 체르노빌, 왕좌의 게임과 같은 **컨텐츠를 유통**한다는 점에서는 분명히 앞설 수 있을 만한 점이 있다고 생각한다. 
