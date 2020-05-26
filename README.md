@@ -7,6 +7,10 @@
 __주제__: 넷플릭스와 왓챠플레이의 검색량 비교와 각 사이트의 상위 컨텐츠 분석
 
 --------------
+__사용 환경__: python3(데이터 수집), python2+spark-2.0.0-bin-hadoop2.7(데이터 분석)<br>
+        - python3에 맞는 spark version이 있다면 python2를 사용하지 않아도 무방
+
+------------
 ### 넷플릭스와 왓챠 각 사이트의 상위 컨텐츠 골라내기
 __데이터 수집 방법__: 
 1. [네이버 개발자센터](https://developers.naver.com/docs/search/blog/)에서 **오픈 API** 이용 신청
