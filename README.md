@@ -20,7 +20,7 @@ __데이터 수집 방법__:
 
 
 __데이터 분석 방법__:
-1. 블로그 **요약 데이터** 중 본문 **제목(title열)**을 가져옴
+1. 블로그 **요약 데이터** 중 본문 **제목(title열)** 을 가져옴
     - 출력결과: 자세한 설명은 [네이버 개발자센터](https://developers.naver.com/docs/search/blog/) 참고                          
       <img src="https://user-images.githubusercontent.com/47767202/82142765-9e265b00-9879-11ea-9391-5fb3a20ac858.JPG" width="70%">
       <img src="https://user-images.githubusercontent.com/47767202/82633131-5450c280-9c35-11ea-859c-dc42d7958b2d.png" width="70%"> 
